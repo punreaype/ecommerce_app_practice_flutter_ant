@@ -1,0 +1,52 @@
+name: practice_7
+description: "Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.16
+  shimmer: ^3.0.0
+  carousel_slider: ^5.0.0
+  smooth_page_indicator: ^1.2.0+3
+  lottie: ^3.2.0
+  anim_search_bar: ^2.0.3
+  dot_navigation_bar: ^1.0.2
+  google_maps_flutter: ^2.10.0
+  geocoding: ^3.0.0
+  path_provider: ^2.1.5
+  badges: ^3.1.2
+  shared_preferences: ^2.3.4
+  google_fonts: ^6.2.1
+  flutter_bounceable: ^1.1.0
+  flutter_slidable: ^3.1.2
+  sqflite: ^2.4.1
+  path: ^1.9.0
+  loading_indicator: ^3.1.1
+  flutter_icon_snackbar: ^1.2.1
+  another_flushbar: ^1.12.30
+  intl: ^0.20.2
+  dotted_line: ^3.2.3
+  quickalert: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/svg/
+    - assets/lottie/
+    - assets/icons/
+    - assets/icons/debit/
