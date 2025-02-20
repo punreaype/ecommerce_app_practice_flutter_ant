@@ -1,4 +1,4 @@
-# practice_7
+# ecommerce_app_practice_flutter_ant
 
 A new Flutter project.
 
